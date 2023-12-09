@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author ahmmm
+ *
+ */
+module Sudoku {
+}
